@@ -1,0 +1,2 @@
+DataProvider: sqlserver
+DataConnectionString: Data Source=.\sql2012;Initial Catalog=nop380BPX;Integrated Security=True;Persist Security Info=False
